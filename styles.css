@@ -1,0 +1,38 @@
+  header {width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+  }
+
+  body {
+      margin: 0%;
+      padding: 0%;
+      background-color: rgb(223, 149, 97);
+      
+
+  }
+  article{
+      width: 80%;
+      margin-left: 0%;
+      margin-right: 0%;
+      text-align: justify;
+      
+  }
+  footer {
+      width: 80%;
+       margin-left: 0%;
+       margin-right: auto;
+       text-align: justify;
+  }
+  
+  div{
+
+    text-align: center;
+  }
+
+  img{
+
+    width: 100%;
+    height: auto;
+  }
